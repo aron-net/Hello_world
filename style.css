@@ -1,0 +1,11 @@
+* {
+  background-color: whitesmoke;
+}
+
+.header-style {
+  font-size: 72px;
+  text-align: center;
+  background: -webkit-linear-gradient(rgb(221, 127, 127), rgb(221, 202, 92));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
